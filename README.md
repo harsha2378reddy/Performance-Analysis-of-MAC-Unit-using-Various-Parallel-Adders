@@ -23,7 +23,7 @@ The analysis showed that parallel adders can significantly improve MAC unit perf
 - Embedded Systems
 - FPGA-Based Designs
 - High-Speed Computing
--
+  
 ## Conclusion
 The project evaluated different parallel adder architectures in a MAC Unit and compared their performance. The analysis showed that the choice of adder significantly affects the speed and efficiency of digital systems.
 
